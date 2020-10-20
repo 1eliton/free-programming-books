@@ -36,6 +36,7 @@
 
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+* [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
 
 
 ### Game development
